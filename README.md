@@ -1,2 +1,1 @@
-# wordpress_kubernetes
-Déployer WordPress, MySQL et PhpMyAdmin sous Kubernetes
+Déployer WordPress sous Kubernetes implique plusieurs étapes. Voici un guide de déploiement de base pour WordPress sur Kubernetes en utilisant des déploiements, services, et Persistent Volumes (PV) pour stocker les données de la base de données et du site. Ce guide suppose que vous avez un cluster Kubernetes opérationnel.
